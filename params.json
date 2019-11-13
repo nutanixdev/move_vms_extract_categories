@@ -1,0 +1,16 @@
+{
+    "pc_ip":"10.0.0.1",
+    "username":"admin",
+    "category":{},
+    "email_settings":{
+        "smtp_server":"smtp.gmail.com",
+        "smtp_port":587,
+        "require_tls":true,
+        "require_ehlo":true,
+        "smtp_user":"username@domain.com",
+        "smtp_password":"smtp_password",
+        "recipient":"username@domain.com",
+        "sender":"reporter@domain.com",
+        "subject":"VMs assigned to specified category"
+    }
+}
