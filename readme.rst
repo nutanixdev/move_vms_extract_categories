@@ -57,6 +57,12 @@ Usage
 
       python3.8 list_vms.py params.json
 
+-------
+Support
+-------
+
+Please be advised this script is **unofficial** and meant for demo/reference purposes only.  It is not officially supported by Nutanix in any way.
+
 ----------
 Screenshot
 ----------
